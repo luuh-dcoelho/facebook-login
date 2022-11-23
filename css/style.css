@@ -213,6 +213,16 @@ body {
     font-weight: lighter;
 }
 
+.right .vertical-align p a {
+    font-weight: normal;
+    text-decoration: none;
+    color: black;
+}
+
+.right .vertical-align p a:hover {
+    text-decoration: underline;
+}
+
 .card:hover {
     box-shadow: 0 0 20px 2px rgb(210, 210, 210);
 }
