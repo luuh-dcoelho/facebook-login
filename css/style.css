@@ -67,6 +67,7 @@ body {
     border: 1px solid rgb(230, 230, 230);
     border-radius: 10px;
     background: white;
+    transition: 0.7s;
 }
 
 .profile {
